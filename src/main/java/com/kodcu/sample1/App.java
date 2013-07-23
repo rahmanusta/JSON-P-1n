@@ -1,4 +1,4 @@
-package com.kodcu;
+package com.kodcu.sample1;
 
 import java.math.BigInteger;
 import javax.json.Json;
@@ -6,7 +6,7 @@ import javax.json.JsonArray;
 import javax.json.JsonObject;
 
 
-public class Main
+public class App
 {
     public static void main(String[] args) {
 

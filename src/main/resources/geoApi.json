@@ -1,0 +1,96 @@
+
+{
+    "results":[
+        {
+            "address_components":[
+                {
+                    "long_name":"Marmara University",
+                    "short_name":"Marmara University",
+                    "types":[
+                        "establishment"
+                    ]
+                },
+                {
+                    "long_name":"Eğitim Mh.",
+                    "short_name":"Eğitim Mh.",
+                    "types":[
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name":"Kadıköy",
+                    "short_name":"Kadıköy",
+                    "types":[
+                        "sublocality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name":"Istanbul",
+                    "short_name":"Istanbul",
+                    "types":[
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name":"Istanbul",
+                    "short_name":"Istanbul",
+                    "types":[
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name":"Turkey",
+                    "short_name":"TR",
+                    "types":[
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name":"34722",
+                    "short_name":"34722",
+                    "types":[
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address":"Marmara University, Eğitim Mh., 34722 Kadıköy/Istanbul Province, Turkey",
+            "geometry":{
+                "bounds":{
+                    "northeast":{
+                        "lat":40.9898720,
+                        "lng":29.0552020
+                    },
+                    "southwest":{
+                        "lat":40.9848090,
+                        "lng":29.0488970
+                    }
+                },
+                "location":{
+                    "lat":40.989210,
+                    "lng":29.05504490
+                },
+                "location_type":"APPROXIMATE",
+                "viewport":{
+                    "northeast":{
+                        "lat":40.9898720,
+                        "lng":29.0552020
+                    },
+                    "southwest":{
+                        "lat":40.9848090,
+                        "lng":29.0488970
+                    }
+                }
+            },
+            "types":[
+                "university",
+                "establishment"
+            ]
+        }
+    ],
+    "status":"OK"
+}
