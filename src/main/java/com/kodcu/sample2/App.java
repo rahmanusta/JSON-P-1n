@@ -32,8 +32,8 @@ public class App {
 
         //A simple object containing Json array
         JsonObject jsonObject = Json.createObjectBuilder()
-                .add("ad", jsonArray)
-                .add("soyad", "Demir")
+                .add("name", jsonArray)
+                .add("surname", "Demir")
                 .build();
 
         // PrintWriter and JsonWriter is being created
